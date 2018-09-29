@@ -11,7 +11,7 @@ elsif statement = "Hi!"
   puts "HUH?! SPEAK UP, SONNY!"
 elsif statement = "WHAT DID YOU EAT TODAY?"
   puts "NO, NOT SINCE 1938!"
-else puts   
+else puts "HUH?! SPEAK UP, SONNY!"  
   
   
 # Whatever you say to grandma, she should respond with
