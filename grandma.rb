@@ -3,6 +3,13 @@ def speak_to_grandma(greeting)
   statement = "#{greeting}"
 end
 
+if statement = "Hi Nana, how are you?"
+  puts "HUH?! SPEAK UP, SONNY!"
+elsif statement = "Hi!"
+  puts "HUH?S SPEAK UP, SONNY!"
+
+elsif statement = "I LOVE YOU GRANDMA!"
+  puts "I LOVE YOU TOO PUMPKIN!"
 
   
   
