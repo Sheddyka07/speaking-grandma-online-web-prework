@@ -4,4 +4,5 @@ def speak_to_grandma(greeting)
 end
 
 if statement = statement.upcase
-  puts ""
+  puts "HUH?! SPEAK UP, SONNY!"
+elsif statement = 
