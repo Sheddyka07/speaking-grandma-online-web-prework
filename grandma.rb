@@ -9,7 +9,9 @@ elsif statement = "Hi Nana, how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
 elsif statement = "Hi!"
   puts "HUH?! SPEAK UP, SONNY!"
-elsif ""  
+elsif statement = "WHAT DID YOU EAT TODAY?"
+  puts "NO, NOT SINCE 1938!"
+else puts   
   
   
 # Whatever you say to grandma, she should respond with
