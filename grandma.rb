@@ -1,5 +1,5 @@
 
-def speak_to_grandma(statement)
+def speak_to_grandma(phrase)
   statement = "#{greeting}"
 end
 
