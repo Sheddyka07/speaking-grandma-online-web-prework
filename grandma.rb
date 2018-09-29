@@ -3,9 +3,11 @@ def speak_to_grandma(greeting)
   statement = "#{greeting}"
 end
 
+if statement = "Hi Nana, how are you?"
+  puts "HUH?! SPEAK UP, SONNY!"
 if statement = "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-elsif statement = ""
+
   
   
 # Whatever you say to grandma, she should respond with
