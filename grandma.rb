@@ -1,9 +1,6 @@
 
 def speak_to_grandma(phrase)
-  statement = "#{greeting}"
-end
-
-if greeting == statement.downcase
+  if phrase == statement.downcase
   puts "HUH?! SPEAK UP, SONNY!"
 elsif greeting == statement.upcase
   puts "NO, NOT SINCE 1938!"
